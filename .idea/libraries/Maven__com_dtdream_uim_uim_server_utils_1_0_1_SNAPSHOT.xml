@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dtdream.uim:uim-server-utils:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dtdream/uim/uim-server-utils/1.0.1-SNAPSHOT/uim-server-utils-1.0.1-20170401.031925-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dtdream/uim/uim-server-utils/1.0.1-SNAPSHOT/uim-server-utils-1.0.1-20170401.031925-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dtdream/uim/uim-server-utils/1.0.1-SNAPSHOT/uim-server-utils-1.0.1-20170401.031925-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

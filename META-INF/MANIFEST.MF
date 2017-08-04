@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: example/Main.class
+Main-Class: example.Main
+
